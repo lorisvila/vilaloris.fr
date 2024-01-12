@@ -25,7 +25,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/styles.scss",
+              "node_modules/wcs-core/dist/wcs/wcs.css"
             ],
             "scripts": []
           },
